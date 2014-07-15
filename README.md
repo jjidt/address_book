@@ -1,7 +1,6 @@
-## Epicodus week 1 assessment
+## Epicodus week 2 Address Book Project
 
-Javascript function to find any repeated words in a sentence and remove the duplicates
-
+Basic address book page for adding and displaying contacts
 by J.J. Idt
 
-July 13, 2014
+July 14, 2014
